@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc25dbae01c5b934f876ce6b1f2e1186
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - forest: {fileID: 4370591151382845419, guid: 27423586a9800604dbec5489bd75660c, type: 3}
+  - drova: {fileID: 8783453794876288569, guid: 6a9c9db2bb6b3b44a93dbf041b5a506b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
